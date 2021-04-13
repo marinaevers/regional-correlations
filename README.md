@@ -91,7 +91,7 @@ Hover: Highlight segment (linked to Correlation Heatmap) \
 Shift + mouse left click: Select segment (linked to Correlation Heatmap and Statistics View) \
 Shift + mouse left double click: Open pop up to assign a label to segment \
 Filter selection button: Opens a new tab with similar views, but only the selected segments are available \
-Refinement watershed level slider: Refines the selected segments to the chose watershed level \
+Refinement watershed level slider: Refines the selected segments to the chose watershed level
 
 ### Correlation Heatmap
 Hover: Highlight segment (linked to Similarity Image) \
@@ -100,10 +100,10 @@ Shift + mouse left drag: Select corresponding segments in the region (linked to 
 Correlation threshold: If more than one threshold was used in the precalculations, it could be selected here \
 Linkage method: Choose the linkage method used for reordering the matrix based on hierarchical clustering \
 Time Lags: Click 'show' to visualize the color-coded time lag in each cell. \
-Mouse left click on color legends: Filter according to the correlation certainty or time lag respectively (linked to Correlation Heatmap and Statistics view) \
+Mouse left click on color legends: Filter according to the correlation certainty or time lag respectively (linked to Correlation Heatmap and Statistics view)
 
 ### Statistics View
 Mouse wheel: Zoom along the y-axis \
-Hover over curve: Show value on the respective point \
+Hover over curve: Show value on the respective point
 
 If you have further questions, please do not hesitate to contact us.
