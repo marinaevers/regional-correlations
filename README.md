@@ -1,7 +1,22 @@
 # Regional Time Series Correlation
 *Regional Time Series Correlations* can be used to detect and analyze regions in ensemble data that are highly correlated and also exhibit a correlation to other regions. The approach follows a two-step visual analysis approach. In the first step, a so-called similarity image is created by mapping the spatial samples to a 3D embedding and interpreting the embedded coordinates as colors. In the second step, a hierarchical segmentation is computed, and the application can be used to analyze the correlations among the single segments while also taking into account time lags and uncertainty caused by the ensemble.
 
-More information can be found in the paper *Uncertainty-aware Visualization of Regional Time SeriesCorrelation in Spatio-temporal Ensembles* by Marina Evers, Karim Huesmann and Lars Linsen.
+More information can be found in the paper *Uncertainty-aware Visualization of Regional Time Series Correlation in Spatio-temporal Ensembles* by Marina Evers, Karim Huesmann and Lars Linsen.
+
+If you use our approach, please cite our paper.
+> Evers, M., Huesmann, K. and Linsen, L. (2021), Uncertainty-aware Visualization of Regional Time Series Correlation in Spatio-temporal Ensembles. Computer Graphics Forum, 40: 519-530. https://doi.org/10.1111/cgf.14326
+```
+@article{timeSeriesCorrelation,
+    author = {Evers, Marina and Huesmann, Karim and Linsen, Lars},
+    title = {Uncertainty-aware Visualization of Regional Time Series Correlation in Spatio-temporal Ensembles},
+    journal = {Computer Graphics Forum},
+    volume = {40},
+    number = {3},
+    pages = {519-530},
+    doi = {https://doi.org/10.1111/cgf.14326},
+    year = {2021}
+}
+```
 
 ## Requirements
 The dependencies for the python backend and preprocessing scripts can be installed by:
